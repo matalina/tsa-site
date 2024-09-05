@@ -1,6 +1,6 @@
 {
   "vaultName": "The Shieldhaven Academy",
-  "lastExport": 1725494492611,
+  "lastExport": 1725494642182,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-ribbon check-color check-bg",
   "useCustomHeadContent": false,
@@ -121,571 +121,571 @@
   ],
   "fileInfo": {
     "index.md": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 333,
       "exportedPath": "index.html",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/media/3d6c1bdc4d87cde4de67.svg": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 279,
       "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
       "dependencies": []
     },
     "_images/tov/charm.png": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 597063,
       "exportedPath": "_images/tov/charm.png",
       "dependencies": []
     },
     "_images/tov/devil-imp.png": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 690960,
       "exportedPath": "_images/tov/devil-imp.png",
       "dependencies": []
     },
     "_images/tov/find-familiar.png": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 1209332,
       "exportedPath": "_images/tov/find-familiar.png",
       "dependencies": []
     },
     "_images/tov/floating-disk.png": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 575367,
       "exportedPath": "_images/tov/floating-disk.png",
       "dependencies": []
     },
     "_images/tov/healing-word.png": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 319763,
       "exportedPath": "_images/tov/healing-word.png",
       "dependencies": []
     },
     "_images/tov/identify.png": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 422499,
       "exportedPath": "_images/tov/identify.png",
       "dependencies": []
     },
     "_images/tov/magic-missle.png": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 329097,
       "exportedPath": "_images/tov/magic-missle.png",
       "dependencies": []
     },
     "_images/tov/pact-chain.png": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 557325,
       "exportedPath": "_images/tov/pact-chain.png",
       "dependencies": []
     },
     "_images/tov/prestidigitation.png": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 507578,
       "exportedPath": "_images/tov/prestidigitation.png",
       "dependencies": []
     },
     "_images/tov/shocking-grasp.png": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 390880,
       "exportedPath": "_images/tov/shocking-grasp.png",
       "dependencies": []
     },
     "_images/tov/vicsious-mockery.png": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 468481,
       "exportedPath": "_images/tov/vicsious-mockery.png",
       "dependencies": []
     },
     "_images/academy.svg": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 2725,
       "exportedPath": "_images/academy.svg",
       "dependencies": []
     },
     "_images/air.svg": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 3345,
       "exportedPath": "_images/air.svg",
       "dependencies": []
     },
     "_images/alex-bard.jpg": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 505377,
       "exportedPath": "_images/alex-bard.jpg",
       "dependencies": []
     },
     "_images/alex-bard.webp": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 59086,
       "exportedPath": "_images/alex-bard.webp",
       "dependencies": []
     },
     "_images/aquatic.svg": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 21707,
       "exportedPath": "_images/aquatic.svg",
       "dependencies": []
     },
     "_images/celestial.svg": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 2999,
       "exportedPath": "_images/celestial.svg",
       "dependencies": []
     },
     "_images/city.svg": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 3319,
       "exportedPath": "_images/city.svg",
       "dependencies": []
     },
     "_images/coastal.svg": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 13184,
       "exportedPath": "_images/coastal.svg",
       "dependencies": []
     },
     "_images/corrupted.svg": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 2783,
       "exportedPath": "_images/corrupted.svg",
       "dependencies": []
     },
     "_images/crystal.svg": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 2087,
       "exportedPath": "_images/crystal.svg",
       "dependencies": []
     },
     "_images/crystal_resource.svg": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 4395,
       "exportedPath": "_images/crystal_resource.svg",
       "dependencies": []
     },
     "_images/desert.svg": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 5377,
       "exportedPath": "_images/desert.svg",
       "dependencies": []
     },
     "_images/earth.svg": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 5067,
       "exportedPath": "_images/earth.svg",
       "dependencies": []
     },
     "_images/fey.svg": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 2675,
       "exportedPath": "_images/fey.svg",
       "dependencies": []
     },
     "_images/fire.svg": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 2092,
       "exportedPath": "_images/fire.svg",
       "dependencies": []
     },
     "_images/forest.svg": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 29659,
       "exportedPath": "_images/forest.svg",
       "dependencies": []
     },
     "_images/frozen.svg": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 2173,
       "exportedPath": "_images/frozen.svg",
       "dependencies": []
     },
     "_images/gemstone.svg": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 5487,
       "exportedPath": "_images/gemstone.svg",
       "dependencies": []
     },
     "_images/glimmering.svg": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 3977,
       "exportedPath": "_images/glimmering.svg",
       "dependencies": []
     },
     "_images/haunted.svg": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 2056,
       "exportedPath": "_images/haunted.svg",
       "dependencies": []
     },
     "_images/Hex Flower.jpg": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 1619176,
       "exportedPath": "_images/Hex Flower.jpg",
       "dependencies": []
     },
     "_images/hex_flower.jpg": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 1626266,
       "exportedPath": "_images/hex_flower.jpg",
       "dependencies": []
     },
     "_images/hills.svg": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 2422,
       "exportedPath": "_images/hills.svg",
       "dependencies": []
     },
     "_images/infernal.svg": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 3294,
       "exportedPath": "_images/infernal.svg",
       "dependencies": []
     },
     "_images/jungle.svg": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 17722,
       "exportedPath": "_images/jungle.svg",
       "dependencies": []
     },
     "_images/misty.svg": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 3679,
       "exportedPath": "_images/misty.svg",
       "dependencies": []
     },
     "_images/mountain.svg": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 3861,
       "exportedPath": "_images/mountain.svg",
       "dependencies": []
     },
     "_images/nim-imp.jpg": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 531488,
       "exportedPath": "_images/nim-imp.jpg",
       "dependencies": []
     },
     "_images/nim-imp.webp": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 58908,
       "exportedPath": "_images/nim-imp.webp",
       "dependencies": []
     },
     "_images/nox-warlock.jpg": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 674410,
       "exportedPath": "_images/nox-warlock.jpg",
       "dependencies": []
     },
     "_images/nox-warlock.webp": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 82394,
       "exportedPath": "_images/nox-warlock.webp",
       "dependencies": []
     },
     "_images/ore.svg": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 6714,
       "exportedPath": "_images/ore.svg",
       "dependencies": []
     },
     "_images/plains.svg": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 5577,
       "exportedPath": "_images/plains.svg",
       "dependencies": []
     },
     "_images/plant.svg": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 5457,
       "exportedPath": "_images/plant.svg",
       "dependencies": []
     },
     "_images/poison.svg": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 2993,
       "exportedPath": "_images/poison.svg",
       "dependencies": []
     },
     "_images/shadow.svg": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 1987,
       "exportedPath": "_images/shadow.svg",
       "dependencies": []
     },
     "_images/swamp.svg": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 7907,
       "exportedPath": "_images/swamp.svg",
       "dependencies": []
     },
     "_images/temporal.svg": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 3961,
       "exportedPath": "_images/temporal.svg",
       "dependencies": []
     },
     "_images/The Shieldhaven Academy.jpg": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 6540707,
       "exportedPath": "_images/The Shieldhaven Academy.jpg",
       "dependencies": []
     },
     "_images/town.svg": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 2222,
       "exportedPath": "_images/town.svg",
       "dependencies": []
     },
     "_images/volcanic.svg": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 3465,
       "exportedPath": "_images/volcanic.svg",
       "dependencies": []
     },
     "_images/water.svg": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 2114,
       "exportedPath": "_images/water.svg",
       "dependencies": []
     },
     "_images/water_resource.svg": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 5872,
       "exportedPath": "_images/water_resource.svg",
       "dependencies": []
     },
     "_images/wood.svg": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 6442,
       "exportedPath": "_images/wood.svg",
       "dependencies": []
     },
     "characters/Alex.md": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 6146,
       "exportedPath": "characters/Alex.html",
       "dependencies": []
     },
     "characters/Nox.md": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 7429,
       "exportedPath": "characters/Nox.html",
       "dependencies": []
     },
     "factions/The Illuminated.md": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 1545,
       "exportedPath": "factions/The Illuminated.html",
       "dependencies": []
     },
     "factions/The Shieldhaven Academy.md": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 3537,
       "exportedPath": "factions/The Shieldhaven Academy.html",
       "dependencies": []
     },
     "factions/The Silver Hand.md": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 3034,
       "exportedPath": "factions/The Silver Hand.html",
       "dependencies": []
     },
     "gods/The Radiant One.md": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 102,
       "exportedPath": "gods/The Radiant One.html",
       "dependencies": []
     },
     "hexes/K7.md": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 300,
       "exportedPath": "hexes/K7.html",
       "dependencies": []
     },
     "hexes/K8.md": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 297,
       "exportedPath": "hexes/K8.html",
       "dependencies": []
     },
     "hexes/L7.md": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 292,
       "exportedPath": "hexes/L7.html",
       "dependencies": []
     },
     "hexes/L8.md": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 308,
       "exportedPath": "hexes/L8.html",
       "dependencies": []
     },
     "hexes/L9.md": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 301,
       "exportedPath": "hexes/L9.html",
       "dependencies": []
     },
     "hexes/M7.md": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 296,
       "exportedPath": "hexes/M7.html",
       "dependencies": []
     },
     "hexes/M8.md": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 301,
       "exportedPath": "hexes/M8.html",
       "dependencies": []
     },
     "mechanics/Hexcrawling.md": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 17798,
       "exportedPath": "mechanics/Hexcrawling.html",
       "dependencies": []
     },
     "mechanics/Oracle.md": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 8504,
       "exportedPath": "mechanics/Oracle.html",
       "dependencies": []
     },
     "mechanics/Random Encounter.md": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 2521,
       "exportedPath": "mechanics/Random Encounter.html",
       "dependencies": []
     },
     "mechanics/Random Quest.md": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 1237,
       "exportedPath": "mechanics/Random Quest.html",
       "dependencies": []
     },
     "notes/domains.md": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 94,
       "exportedPath": "notes/domains.html",
       "dependencies": []
     },
     "quests/Quest List.md": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 164,
       "exportedPath": "quests/Quest List.html",
       "dependencies": []
     },
     "quests/The Missing Apprentice.md": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 1790,
       "exportedPath": "quests/The Missing Apprentice.html",
       "dependencies": []
     },
     "sessions/000.md": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 5443,
       "exportedPath": "sessions/000.html",
       "dependencies": []
     },
     "settlements/Ruined Village.md": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 128,
       "exportedPath": "settlements/Ruined Village.html",
       "dependencies": []
     },
     "settlements/Sentinel's Rest.md": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 2131,
       "exportedPath": "settlements/Sentinel's Rest.html",
       "dependencies": []
     },
     "settlements/Stonecrest.md": {
-      "modifiedTime": 1725494492611,
+      "modifiedTime": 1725494642182,
       "sourceSize": 65,
       "exportedPath": "settlements/Stonecrest.html",
       "dependencies": []
